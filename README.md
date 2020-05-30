@@ -7,3 +7,5 @@ Recordá instalar todas las dependencias del proyecto ejecutando el comando: npm
 Luego ejecuta el comando npm start
 
 En caso de querer contribuir con alguna mejora, enviame un PULL REQUEST !!
+
+![Ver imagen](/src/path/to/img.jpg?raw=true "Optional Title")
